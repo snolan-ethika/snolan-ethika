@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @snolan-ethika
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning vuejs & algolia
+- 💞️ I’m looking to collaborate on anything web development
+- ⚡ Fun fact: where you are, is where you'll be...
